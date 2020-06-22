@@ -1,0 +1,6 @@
+A1=int(input())
+A2=int(input())
+A3=int(input())
+if A1>A2 and A1>A3:print('A1 is greater',A1)
+elif A2>A3:print('A2 is  greater',A2)
+else:print('A3 is greater',A3)

@@ -1,0 +1,3 @@
+Mat=int(input('marks'))
+if Mat>35:print('greater than pass marks')
+elif Mat<35:print('less than pass marks')

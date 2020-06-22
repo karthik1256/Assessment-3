@@ -1,0 +1,6 @@
+a1=int(input())
+a2=int(input())
+a3=int(input())
+if a1==a2==a3  : print ('all are equal')
+elif a1==a2 or a2==a3 or a1==a3 : print ('any two of them are equal')
+else :print ('none of them r equal')
